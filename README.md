@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Faraz 👋
+# Hi, I'm Faraz 👋
 
 ### Senior Product Manager · Builder · Product Thinker
 
