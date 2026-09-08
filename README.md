@@ -1,6 +1,6 @@
 # Hi, I'm Faraz 👋
 
-I'm a Senior Product Manager with 9+ years of experience building products across Jio, Deloitte, and Borzo.
+I'm a Senior Product Manager with 9+ years of experience building products across Deloitte, Jio, and Borzo.
 
 I've worked on consumer and enterprise products used by millions of users, with a focus on product strategy, discovery, experimentation, analytics, and working closely with engineering, design, and data teams to take products from idea to launch.
 
