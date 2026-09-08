@@ -1,61 +1,32 @@
 # Hi, I'm Faraz 👋
 
-### Senior Product Manager · Builder · Product Thinker
+I'm a Senior Product Manager with 9+ years of experience building products across Jio, Deloitte, and Borzo.
 
-9+ years across **Jio, Deloitte, Borzo**, building products used by **millions of users**.
+I've worked on consumer and enterprise products used by millions of users, with a focus on product strategy, discovery, experimentation, analytics, and working closely with engineering, design, and data teams to take products from idea to launch.
 
-I **build products, experiment with AI, and share what I learn**.
+At JioCloud, I worked on AI-powered products including **Memories, Semantic Search, Video Moderation, and desktop experiences**. At Borzo, I worked on products and experiments that helped reduce courier cancellations from **30% to 7%** and grow insurance revenue from **₹0.5M to ₹6M/month**. At Deloitte, I work on an engineering platform serving **50,000+ engineers**.
 
-My work sits at the intersection of product strategy, user experience, experimentation, technology, and execution.
+I'm particularly interested in **AI and how it can be applied to real product problems**. I'm currently contributing to [Claude Skills for Product Managers](https://github.com/imohammadfaraz/claude-skills-for-product-manager) and building small AI experiments and product tools to explore ideas hands-on.
 
-I use GitHub to document what I'm building, from product experiments and AI prototypes to practical tools and product thinking.
+I also share what I learn about Product Management through **[@produxtmanager](https://www.instagram.com/produxtmanager)** on Instagram and Substack.
 
----
+I've put together my work, experience, and projects at **[mohammadfaraz.com](https://mohammadfaraz.com)**.
 
-## What I Do
+If you're interested in Product, AI, or just building things, feel free to connect.
 
-🧠 **Product Thinking**
-- Turning user problems into clear product opportunities, hypotheses, and solutions.
+### Find me elsewhere
 
-🤖 **AI Products**
-- Experimenting with AI-powered products, workflows, agents, and experiences.
+**Portfolio:**
+https://mohammadfaraz.com
 
-🛠️ **Product Prototypes**
-- Building lightweight prototypes to test ideas instead of only writing about them.
+**LinkedIn:**
+https://www.linkedin.com/in/imohammadfaraz/
 
-📊 **Experiments & Analytics**
-- Exploring data, metrics, experimentation, and product growth.
+**GitHub:**
+https://github.com/imohammadfaraz
 
-✍️ **Product Writing**
-- Sharing practical lessons on product management, decision-making, and building products.
+**Instagram:**
+https://www.instagram.com/produxtmanager
 
----
-
-## ⚡ Selected Impact
-
-☁️ **JioCloud**
-- Built AI-powered **Memories**, **Semantic Search**, **Video Moderation**, and desktop experiences.
-
-📦 **Borzo**
-- Reduced courier cancellations from **30% → 7%** and grew insurance revenue from **₹0.5M → ₹6M/month**.
-
-🟢 **Deloitte AEF**
-- Building an engineering platform serving **50,000+ engineers**
-
----
-
-### 🔗 Find Me
-
-🌐 **Portfolio** → [mohammadfaraz.com](https://mohammadfaraz.com)
-
-💼 **LinkedIn** → [linkedin.com/in/imohammadfaraz](https://www.linkedin.com/in/imohammadfaraz/)
-
-💻 **GitHub** → [github.com/imohammadfaraz](https://github.com/imohammadfaraz)
-
-📸 **Instagram** → [@produxtmanager](https://www.instagram.com/produxtmanager)
-
-✍️ **Substack** → [@produxtmanager](https://substack.com/@produxtmanager)
-
----
-
-> **Don't just talk about products. Build them. Measure them. Learn. Repeat.**
+**Substack:**
+https://substack.com/@produxtmanager
