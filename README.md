@@ -34,7 +34,7 @@ I use GitHub to document what I'm building, from product experiments and AI prot
 ## ⚡ Selected Impact
 
 ☁️ **JioCloud**
-- Built AI-powered **Memories using YOLO model built inhouse**, **Semantic Search using OpenClip image to vector modelling**, **Video Moderation using open source Melvid and Nudenet for obscene contents**,  and desktop experiences.
+- Built AI-powered **Memories**, **Semantic Search**, **Video Moderation**, and desktop experiences.
 
 📦 **Borzo**
 - Reduced courier cancellations from **30% → 7%** and grew insurance revenue from **₹0.5M → ₹6M/month**.
